@@ -4,8 +4,8 @@
 
 # Global Property
 title-text: "Linux's awesome, Arch's awesome, We are awesome. I handsome!"
-title-font: "DejaVuSans 20"
-title-color: "#333333"
+title-font: "DejaVuSans 30"
+title-color: "#eeeeee"
 message-font: "Fixed Regular 13"
 message-color: "#333333"
 message-bg-color: "#f2f2f2"
