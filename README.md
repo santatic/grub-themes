@@ -9,6 +9,6 @@
 
 Edit `/etc/default/grub`, set:
 
-```GRUB_THEME="/boot/grub/themes/SteamROG/themetemplate.txt"```
+`GRUB_THEME="/boot/grub/themes/SteamROG/themetemplate.txt"`
 
 > sudo grub-mkconfig -o /boot/grub/grub.cfg
